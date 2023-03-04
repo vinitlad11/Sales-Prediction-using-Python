@@ -20,4 +20,3 @@ if st.button('Predict'):
     result = round(result, 3)
     # 2. Display
     st.header(f"Sales: {result}")
-
